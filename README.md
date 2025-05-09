@@ -1,6 +1,6 @@
-# 👋 E aí! Eu sou um(a) apaixonado(a) por código e design!
+# 👋 E aí! Eu sou uma mulher apaixonada por código e design!
 
-🎓 Estudante de **Desenvolvimento de Software Multiplataforma**  
+🎓 Estudante de **Desenvolvimento de Software e Multiplataforma**  
 🎨 Amo transformar ideias em interfaces bonitas, estilosas e responsivas – se tem cor, fonte e animação, pode me chamar!
 
 💻 Já me aventurei (e continuo aprendendo) com:
@@ -8,6 +8,6 @@
 - 🌐 HTML, CSS, JavaScript
 - 🧩 E sempre explorando novas techs!
 
-🚀 Curioso(a), criativo(a) e sempre de olho nas tendências do mundo dev!
+🚀 Curiosa criativa e sempre de olho nas tendências do mundo dev!
 
 📍 _“Código limpo é bom, código bonito é melhor ainda.”_
