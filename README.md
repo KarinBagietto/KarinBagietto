@@ -25,13 +25,10 @@
   ## 📫 Onde me encontrar:
 
 <p align="left">
-  <a href="https://dev.to/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+     <a href="https://www.linkedin.com/in/KarinBagietto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/seuusuario" target="_blank">
+  <a href="https://github.com/KarinBagietto" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://instagram.com/karin_costha" target="_blank">
