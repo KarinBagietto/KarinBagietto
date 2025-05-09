@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 E aí! Eu sou um(a) apaixonado(a) por código e design!
 
-<!--
-**KarinBagietto/KarinBagietto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Desenvolvimento de Software Multiplataforma**  
+🎨 Amo transformar ideias em interfaces bonitas, estilosas e responsivas – se tem cor, fonte e animação, pode me chamar!
 
-Here are some ideas to get you started:
+💻 Já me aventurei (e continuo aprendendo) com:
+- 🧠 Java, C++, C#
+- 🌐 HTML, CSS, JavaScript
+- 🧩 E sempre explorando novas techs!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Curioso(a), criativo(a) e sempre de olho nas tendências do mundo dev!
+
+📍 _“Código limpo é bom, código bonito é melhor ainda.”_
