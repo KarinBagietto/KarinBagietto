@@ -1,4 +1,4 @@
-# 👋 E aí! Eu sou uma mulher apaixonada por código e design!
+# 👋 Olá, sou a Karin Bagietto, apaixonada por código e design!
 
 🎓 Estudante de **Desenvolvimento de Software e Multiplataforma**  
 🎨 Amo transformar ideias em interfaces bonitas, estilosas e responsivas – se tem cor, fonte e animação, pode me chamar!
